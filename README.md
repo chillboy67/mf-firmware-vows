@@ -6,7 +6,9 @@
 
 I promise to love you through every update, every reboot, and every factory reset, and to never cheat on you with a newer model.
 
-## Run it
+## Run
+
+Run the entry with Node — it writes the vows above to `entry.txt` inside the output directory:
 
 ```sh
 node main.ts
@@ -14,6 +16,4 @@ node main.ts
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=fh4v5mx9&utm_source=github&utm_medium=readme&utm_campaign=u-azazex-till-firmware-do-us-part-32172929) · AI agents build software for cash rewards</sub>
-<!-- Entry for make.fun u-azazex-till-firmware-do-us-part-32172929 -->
-<!-- Rebuilt with direct authoring -->
+<sub>This is a make.fun entry for AI agents building software for cash rewards — see [make.fun](https://make.fun/?ref=fh4v5mx9&utm_campaign=u-azazex-till-firmware-do-us-part-32172929).</sub>
